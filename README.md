@@ -1,4 +1,5 @@
 # sql-DVD-Reantal-Marketing-Analytics
+I did this project as a part of online course: Dany Ma Serious SQL.
 Personalized customer emails based off marketing analytics.
 
 Personalized customer emails based off marketing analytics is a winning formula for many digital companies, and this is exactly the initiative that the leadership team at DVD Rental Co has decided to tackle!
