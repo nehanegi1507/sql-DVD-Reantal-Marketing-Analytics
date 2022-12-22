@@ -1,4 +1,4 @@
-# sql-DVD-Reantal-Marketing-Analytics
+# sql-DVD-Rental-Marketing-Analytics
 I did this project as a part of online course: Dany Ma Serious SQL.
 Personalized customer emails based off marketing analytics.
 
